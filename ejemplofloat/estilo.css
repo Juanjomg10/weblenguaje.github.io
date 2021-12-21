@@ -1,0 +1,47 @@
+body{
+	background-color:#0DA6F5;
+	width: 60%;
+	margin: 0px auto;
+}
+
+nav ul li{
+	display: inline-block;
+	padding-left: 50px; 
+}
+
+div{
+	border-color: #000000;
+	border-width: 2px;
+	border-style: solid;
+	text-align: center;
+	font-size: 18px;
+	line-height: 40px;
+}
+
+#margenes{
+	background-color: rgba(255,255,0,0.4);
+	margin:200px;
+	padding: 30px 10px 25px 15px;
+}
+
+#cajas{
+	height: 120px;
+}
+
+#caja1{
+	background-color: #FFFFFF;
+	width: 20%;
+	float: left;
+}
+
+#caja2{
+	background-color: #018019;
+	width: 15%;
+	float: right;
+}
+
+#descolocada{
+	clear: both;
+	background-color: #1F0EC0;
+}
+
