@@ -1,0 +1,61 @@
+table{
+width: 100%;
+border-collapse: collapse; /* Para evitar bordes separados */
+}
+
+td,th{
+	border: 2px solid black;
+}
+
+#hora{
+	font-family: valentine;
+	font-size: 20px; 
+	font-weight: bold;
+	text-align: center;
+	background-color: goldenrod;
+}
+
+th{
+	background-color: goldenrod;
+}
+
+@font-face{
+	font-family: horror;
+	src:url(../fuentes/horror.otf) format('opentype');
+}
+
+@font-face{
+	font-family: qinder;
+	src:url(../fuentes/qinder.ttf) format('truetype');
+}
+
+@font-face{
+	font-family: artisual;
+	src:url(../fuentes/artisual.otf) format('opentype');
+}
+
+@font-face{
+	font-family: valentine;
+	src:url(../fuentes/valentine.ttf) format('truetype');
+}
+
+.iso{
+	font-family: horror;
+	font-size: 40px;
+	color: darkred;
+	background-color: darkgrey;
+}
+
+.datos{
+	font-family: qinder;
+	font-size: 20px;
+	color:aquamarine ;
+	background-color:purple; 
+}
+
+.marcas{
+	font-family:artisual ;
+	font-size: 20px;
+	color: gold ;
+	background-color: red; 
+}

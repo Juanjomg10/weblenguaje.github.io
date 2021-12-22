@@ -1,0 +1,39 @@
+body{
+	color: ;
+	background-color:skyblue;
+}
+
+header{
+	text-align: center;
+	background-color: darkblue;
+	color: white;
+	width: all;
+}
+
+
+
+h3{
+	background-color: darkblue;
+	color: white; 
+	padding: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover{
+	background-color: blue;
+	color: white;
+}
+
+.dia{
+	list-style-type: square;
+	color: blue;
+}
+
+#alcalde{
+	list-style-type: square;
+	color: blue;
+}
