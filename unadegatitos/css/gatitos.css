@@ -1,0 +1,144 @@
+body{
+	font-family: arial, helvetica;
+	float: left;
+}
+
+header{
+	background-color: #000000;
+	float: left;
+	padding-left: 10%;
+}
+
+header h1{
+
+}
+
+header p{
+	float: left;
+	padding-right: 15%;
+	font-weight: italic;
+	color: #FFFFFF;
+}
+
+#logo{
+	float: left;
+}
+#banner{
+	border: solid 8px lightgrey;
+}
+
+nav{
+	float: left;
+	margin-left: 20%;
+	margin-top: 2%;
+}
+
+li{
+	display: inline-block;
+	padding: 10px;
+}
+
+li a{
+	color: lightgrey;
+}
+
+.articulos p{
+	margin-left: 10%;
+}
+
+h1{
+	color: #FFFFFF;
+}
+
+#principal{
+	float: left;
+	padding-left: 10%;
+	background-color: lightgrey;
+}
+
+.articulos{
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+
+.articulos p{
+	text-align: left;
+}
+
+.articulos a{
+	float: left;
+	text-decoration: none;
+	color: #ff956b;
+	background-color: #dadbdc;
+	padding: 10px;
+	margin-left: 10px; 
+}
+
+.titulo{
+	color: #ff956b;
+}
+
+.picture{
+}
+
+#top{
+	margin-top: 4%;
+}
+
+#titulo2{
+	color: #ff6666;
+}
+
+#quinto{
+	float: left;
+}
+
+#tumbado{
+	float: left;
+	margin-right:  15px;
+	border: 5px solid lightgrey;
+}
+
+#fernand{
+	margin-left: 10px;
+	padding-right: 20%;
+}
+
+footer{
+	background: url(../img/footer.png);
+	background-repeat: repeat-x;
+	padding-left: 10%;
+	padding-right: 15%;
+}
+
+#catpaw{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+#hello{
+	float: left;
+	margin-right: 10%
+}
+
+#bla{
+	float: left;
+	margin-right: 10%;
+}
+
+#purr{
+	float: left;
+}
+
+#valid{
+	clear: both;
+}
+
+#copy{
+	float: left;
+}
+
+
+

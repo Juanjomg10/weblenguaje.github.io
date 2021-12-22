@@ -1,0 +1,119 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	width: 75%;
+	margin: 0 auto;
+	background-color: #f0f0f0;
+}
+
+li{
+	list-style-type: none;
+}
+
+div{
+	background-color: #FFFFFF;
+	padding-left: 5%;
+}
+
+nav{
+	width: 20%;
+	float: left;
+}
+
+#principal{
+	float: left;
+	width: 80%;
+}
+
+#principal article{
+	padding-top: 5%;
+	width: 30%;
+	height: 30%;
+	float: left;
+}
+
+#principal article h1{
+	float: left;
+}
+
+#principal article ul{
+	margin-right:  5px;
+	clear: left;
+}
+
+#principal article ul li{
+	padding-right: 20px;
+	padding-top: 5px;
+	margin-top: 5px;
+	width: 200px;
+	background: #d0d0d0;	
+	color: #000000;
+	text-align: center;
+
+}
+
+#principal article ul a{
+	text-decoration:none;
+	text-align: center;
+}
+
+#verde{
+	background-color: green;
+	float: left;
+	margin-right: 5%;
+
+}
+
+#celeste{
+	background-color: cyan;
+	float: left;
+	margin-right: 5%;
+}
+
+#negro{
+	background-color: #000000;
+	float: left;
+	margin-right: 5%;
+}
+
+#naranja{
+	background-color: orange;
+	float: left;
+	margin-right: 5%; 
+}
+
+#turquesa{
+	background-color: #00a472;
+	float: left;
+	margin-right: 5%;
+}
+
+#azul{
+	background-color: blue;
+	float: left;
+	margin-right: 5%;
+}
+
+#secundario{
+	float: left;
+}
+
+#learn{
+	background: #d0d0d0;
+	padding: 5%;
+	margin-top: 5%;
+	text-align: c
+	width: 100%;
+}
+
+aside{
+	float: right;
+	padding-right: 10%;
+}
+
+footer{
+	float: left;
+}

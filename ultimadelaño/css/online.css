@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0 auto;
+	width: 75%;
+}
+
+header{
+	background: url(../img/bg.png);
+}
+
+#logo{
+	padding-left: 5px;
+}
+
+nav{
+	float: right;
+	padding-right: 10%;
+	padding-top: 5%;
+}
+
+nav ul{
+	list-style-type: none;
+
+}
+
+nav li{
+	float: left;
+	background: #FFFFFF;
+	padding-right: 10px;
+}
+
+nav a{
+	color: orange;
+	text-decoration: none;
+}
+
+nav a:hover{
+	font-weight: bold;
+	color: orange;
+	background: #000000;
+}
+
+#banner{
+	padding-right: 10%;
+	width: 75%;
+}
+
+#seccion{
+	background: #e1e1e1;
+	float: left;
+}
+
+#last{
+	float: left;
+	margin: 5% 5% 2% 5%;
+	background: #FFFFFF;
+	padding: 15px;
+}
+
+.principal{
+	float: left;
+	width: 20%;
+	margin: 5% 2% 5% 5%;
+	background: #FFFFFF;
+	padding: 15px;
+}
+
+.principal a{
+	text-decoration: none;
+}
+
+footer{
+	float: left;
+	width: 100%;
+	margin-right: 30px; 
+	position: relative;
+}
+
+footer div{
+	float: left;
+	width: 25%;
+	padding-left: 10px;
+	background: url(../img/footer.png);
+	color: #FFFFFF;
+}
+
+footer div a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+footer img{
+	float: left;
+	position: absolute;
+	bottom: 20px;
+	right: 25px;
+}
+
+p{
+	float: left;
+	background: 
+}
+
+
+
+
+
+
+
+

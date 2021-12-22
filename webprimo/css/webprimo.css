@@ -1,0 +1,79 @@
+body{
+	background-color: #2a4070;
+	font-family: Arial, Helvetica;
+	margin: 0 auto;
+	width: 75%;
+}
+
+nav{
+	background-image: url("../img/papel_cuadritos.png");
+	height: 60px;
+}
+ nav ul{
+	list-style-type: none;
+}
+
+nav li  {
+	float: left;
+	text-decoration: none;
+	text-align: center;
+	padding-left: 20px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	color: #000000;
+}
+
+aside img{
+	width: 45%;
+}
+
+
+header{
+	background-color: #c4d0e6;
+	height: 200px;
+	padding-left: 10px;
+	position: relative;
+}
+
+header p{
+	width: 50%;
+}
+
+#main{
+	background-color: white;
+	height: 60%;
+	float: left;
+}
+
+#content{
+	float: right;
+	width: 74%;
+	background-color: #FFFFFF;
+}
+
+#sidebar{
+	width: 24%;
+	border-right: 2px solid #010DFB
+
+}
+
+#plans{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+footer{
+ width: 100%;
+ float: left;
+ background-color:#c4d0e6 ; 
+}
+
+footer aside{
+	float: left;
+}
